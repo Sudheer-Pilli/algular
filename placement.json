@@ -1,0 +1,39 @@
+
+[
+        {
+            "name": "Gobi",
+            "email": "gobi@gamil.com",
+            "phone": "9148827639",
+            "department": "Computer science"
+        },
+        {
+            "name": "Paul F",
+            "email": "paulf@christuniversity.com",
+            "phone": "9100997798",
+            "department": "Management"
+        },
+        {
+            "name": "Sandra David",
+            "email": "sandra@christuniversity.com",
+            "phone": "2100657341",
+            "department": "Arts"
+        },
+        {
+            "name": "Naveen Dinesh",
+            "email": "naveend@christuniversity.com",
+            "phone": "1335327452",
+            "department": "Law" 
+        },
+        {
+            "name": "Sam",
+            "email": "sam@christuniversity.com",
+            "phone": "9012908212",
+            "department": "Data analytics"
+        },
+        {
+            "name": "Beck",
+            "email": "becks@cuintern.com",
+            "phone": "8798076758",
+            "department": "Comp Intern"
+        }
+]
